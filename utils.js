@@ -104,5 +104,5 @@ function load_binary(url, cb)
             typed_array = false;
         }
     }
-    req.send(null);
+   //req.send(null);
 }
